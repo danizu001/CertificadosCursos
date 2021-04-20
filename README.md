@@ -9,3 +9,4 @@
 <p>Introducción al pensamiento probabilístico: https://platzi.com/p/danygonza961201/curso/1841-probabilistica/diploma/detalle/</p>
 <p>Curso de sql y mysql: https://platzi.com/p/danygonza961201/curso/1272-sql-mysql/diploma/detalle/</p>
 <p>Matemáticas para data science: Calculo Básico: https://platzi.com/p/danygonza961201/curso/2155-calculo-data-science/diploma/detalle/</p>
+<p>Python intermedio: https://platzi.com/p/danygonza961201/curso/2255-course/diploma/detalle/</p>
